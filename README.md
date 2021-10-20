@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @vikassharma437
+- 👋 Hi, I’m Vikas Sharma.
 - 👀 I’m interested in exploring more on Development and DevOps stack.
-- 🌱 I’m currently working on Java, EAP, PAM, DM, Docker, Podman, Kubernetes, OpenShift, Operators, Istio, ServiceMesh, Helm Chart, Skopeo, CICD with Jenkins, SonarQube, Nexus, Git, Gitlab, Gitlab CI, BitBucket, Shell Scripting.
-- 💞️ I’m looking to collaborate on DevOps stack.
+- 🌱 I’m currently working on following technologies stacks:
+     1. Java
+     2. Red Hat JBoss EAP
+     3. Red Hat Process Automation Manager
+     4. Red Hat Decision Manager
+     5. Containerization tools: Docker, Podman
+     6. Orchestration tools: K8s, OpenShift
+     7. App Modernization: Openshift Service Mesh, Red Hat Advanced Cluster Management
+     8. Continous Integration and Continous Deployment:  Helm Chart, Jenkins Pipeline, GitOps, SonarQube, Nexus, Gitlab CI
+     9. Version Control: GitHub, GitLab, BitBucket
+     10. Scripting Language: Shell Scripting, Python, Go.
+- 💞️ I’m looking to collaborate more on DevSecOps stack.
 - 📫 You can reach me @vikas.emailme@gmail.com
 
 <!---
