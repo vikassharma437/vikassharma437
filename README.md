@@ -15,7 +15,8 @@
      12. Continous Integration and Continous Deployment:  Helm Chart, Jenkins Pipeline, GitOps, Tekton, SonarQube, Nexus, Gitlab CI
      13. Version Control: GitHub, GitLab, BitBucket
      14. Scripting Language: Bash, Shell Scripting, Python, Go.
-- 💞️ I’m looking to collaborate more on DevSecOps stack.
+     15. I am part of KIE (JBPM, Drools, DMN) community.
+- 💞️ I’m looking to collaborate more on open source technologies stack.
 - 📫 You can reach me @vikas.emailme@gmail.com
 
 <!---
