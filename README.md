@@ -12,7 +12,7 @@
      9.  Containerization tools: Docker, Podman
      10. Orchestration tools: Kubernetes, OpenShift
      11. App Modernization: Openshift Service Mesh, Red Hat Advanced Cluster Management
-     12. Continous Integration and Continous Deployment:  Helm Chart, Jenkins Pipeline, GitOps, Tekton, SonarQube, Nexus, Gitlab CI, Ansible
+     12. Continous Integration and Continous Deployment:  Helm, Jenkins, GitOps, Tekton, SonarQube, Nexus, Gitlab CI, Ansible
      13. Version Control: GitHub, GitLab, BitBucket
      14. Scripting Language: Bash, Shell Scripting, Python, Go.
      15. I am part of KIE (JBPM, Drools, DMN) community.
